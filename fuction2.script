@@ -1,0 +1,17 @@
+const math = {  
+    E:2.718281828459045,
+    add: function (a,b) {
+    return a + b
+  },
+subtract(a,b) {
+     return a - b
+},
+power: function(num) {
+    return (num * num);
+},
+cube: function(num) {
+    return num ** 3
+}
+
+}
+
